@@ -4,10 +4,12 @@
 <img align="kanan" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 <img align="kanan" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
-:page_with_curl: language with lm learn:
+:page_with_curl: I study:
 - Golang 
 - Python
 - Javascript
+- Java
+- Php
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
