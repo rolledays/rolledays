@@ -20,7 +20,7 @@
 <a href="https://wa.me/6281284745140" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo =Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rolledays&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=rolledays&layout=compact&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=rolledays&layout=compact&theme=radical)
 ![kartu github](https://github-readme-stats.vercel.app/api/pin/?username=rolledays&repo=rollebot-openwa&theme=blue)
 ![kartu github](https://github-readme-stats.vercel.app/api/pin/?username=rolledays&repo=rolle-bot-baileys&theme=nightowl)
-![kartu github](https://github-readme-stats.vercel.app/api/pin/?username=rolledays&repo=Archimed&theme=blue)
+![kartu github](https://github-readme-stats.vercel.app/api/pin/?username=rolledays&repo=Archimed&theme=radical)
