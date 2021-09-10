@@ -4,7 +4,7 @@
 <img align="kanan" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 <img align="kanan" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
-:page_with_curl: language on lm learning:
+:page_with_curl: language with lm learn:
 - Golang 
 - Python
 - Javascript
