@@ -11,7 +11,7 @@
 - Java
 - Php
 
-<img align="center" fit="fill" alt="GIF" src="https://giphy.com/gifs/coding-programming-hackny-UcK7JalnjCz0k.gif" />
+<img align="center" fit="fill" alt="GIF" src="https://giphy.com/gifs/coding-programming-hackny-UcK7JalnjCz0k/giphy.gif" />
 
 ### Chat with me?
 [<img src="https://img.shields.io/badge/Telegram-%40rolledays-blue">](https://t.me/aditia)
