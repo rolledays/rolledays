@@ -1,4 +1,4 @@
-## Hi,lm Rolledev [lm student](https//wa.me/6281284745140) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width= "29px"> my age 15th
+## Hi,lm Rolledev [lm student](https//wa.me/6281284745140) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width= "29px"> lm 17years old:)
 
 <img align="kanan" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
 <img align="kanan" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
@@ -17,8 +17,8 @@
 [<img src="https://img.shields.io/badge/Telegram-%40rolledays-blue">](https://t.me/aditia)
 [<img src="https://img.shields.io/badge/LINE-rolledev.ong-brightgreen">](https://line.me/ti/p/~misseu.ong)
 [<img src="https://img.shields.io/badge/Email-erickmustofabussines%40gmail.com-orange">](mailto:cwhite38@student.mtsac.edu)
-<a href="https://www.instagram.com/wa.bot" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style =flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/_fnbots_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo =Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.instagram.com/aditiamustofa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style =flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/_aditia_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo =Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://wa.me/6281284745140" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo =Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rolledays&show_icons=true&theme=dark)
