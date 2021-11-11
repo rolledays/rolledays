@@ -1,4 +1,5 @@
-## Halo cuy perkenalkan nama gw aditia\nGw hobi ngocoq
+## Halo cuy perkenalkan nama gw aditia
+Gw hobi ngocoq
 
 :page_with_curl: Gw lagi belajar bukan mengajar :
 - Golang 
