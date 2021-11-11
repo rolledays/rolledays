@@ -9,7 +9,7 @@
 - Php
 
 
-### Chat with me?
+### Kontak ku
 [<img src="https://img.shields.io/badge/Telegram-%40rolledays-blue">](https://t.me/aditia)
 [<img src="https://img.shields.io/badge/LINE-rolledev.ong-brightgreen">](https://line.me/ti/p/~misseu.ong)
 [<img src="https://img.shields.io/badge/Email-erickmustofabussines%40gmail.com-orange">](mailto:cwhite38@student.mtsac.edu)
