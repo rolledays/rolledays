@@ -1,6 +1,5 @@
 ## Halo cuy perkenalkan nama gw aditia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width= "29px">Dan gw hobi ngocoq
 
-<img align="kanan" alt="GIF" height="125px" src="https://giphy.com/gifs/ZVJor7MftYvC11Y3Md" />
 
 :page_with_curl: Gw lagi belajar bukan mengajar :
 - Golang 
@@ -10,7 +9,7 @@
 - Java
 - Php
 
-<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="center" fit="fill" alt="GIF" src="https://giphy.com/gifs/ZVJor7MftYvC11Y3Md/giphy.gif" />
 
 ### Chat with me?
 [<img src="https://img.shields.io/badge/Telegram-%40rolledays-blue">](https://t.me/aditia)
