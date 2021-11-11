@@ -1,5 +1,4 @@
-## Halo cuy perkenalkan nama gw aditia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"
-## Dan gw hobi ngocoq
+## Halo cuy perkenalkan nama gw aditia\nGw hobi ngocoq
 
 :page_with_curl: Gw lagi belajar bukan mengajar :
 - Golang 
