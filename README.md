@@ -1,4 +1,4 @@
-## Halo cuy perkenalkan nama gw aditia
+## OwO
 
 :page_with_curl: Gw lagi belajar bukan mengajar :
 - Golang 
